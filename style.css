@@ -1,0 +1,53 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: rebeccapurple;
+    color: white;
+}
+.green {
+    background-color: seagreen;
+    color: brown;
+}
+
+#brown {
+    background-color: thistle;
+    color: crimson;
+}
+
+.is-centered {
+    text-align: center;
+}
+.is-red {
+    color: red;
+}
+* {
+    outline: 1px solid royalblue;
+}
+.quote p {
+    color: black;
+    font-style: italic;
+}
+.quote p {
+    text-decoration: underline;
+    font-weight: bold;
+}
+.header > img {
+    height: 300px;
+}
+.cart > img {
+    height: 500px;
+}
+input {
+    padding: 5px;
+    border-color: rgb(138, 153, 51);
+}
+input[type="text"] {
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+}
+input[type="submit"] {
+    color: blue;
+    background-color: black;
+}
